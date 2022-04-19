@@ -1,3 +1,7 @@
+### There is a new repository that hosts the latest version of this plugin: 
+https://github.com/QualiTorque/torque-spinnaker-plugin
+
+
 ![Build Status](https://img.shields.io/github/workflow/status/QualiSystemsLab/colony-spinnaker-plugin/Build)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
